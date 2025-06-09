@@ -19,9 +19,9 @@ Expo notification:
 
 Direction to run using expo Go:
   1. Download the ZIP of this repository and extract it.
-  2. Install dependencies using: npx expo install
+  2. Install dependencies using: npx expo install (npm install if faced any issue).
   3. Open your Android emulator or connect an Android device.
-  4. Start the Expo server with: npx expo start
+  4. Start the Expo server with: npx expo start (press a for andriod after metro bundler)
 
   -- or install the provided APK file on andriod to use the app directly.
   APK file link: https://drive.google.com/drive/folders/1ZwJDz0Xzz7T_ucQkgBdZXopv1wXSVgms
