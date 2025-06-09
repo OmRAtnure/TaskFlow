@@ -1,4 +1,5 @@
 # TaskFlow
+Name: Om Atnure.
 TaskFlow is a mobile application allowing user to write their daily and weekly task. It is made using react native and utilizes expo notifcation.
 
 Features :
